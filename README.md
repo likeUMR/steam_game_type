@@ -114,20 +114,6 @@ Top 20 主题匹配作品数：
 - 默认使用未登录匿名态
 - 结果更接近 Steam 商店前台公开可见内容
 
-## 公开发布建议
-
-如果要发布到公开仓库，建议只保留：
-- `code/`
-- `results/latest/`
-- 本 `README.md`
-
-建议不要公开：
-- `validation/`
-- `*_reference.txt`
-- checkpoint 文件
-- `__pycache__/`
-- 本地调试样本和临时文件
-
 ## 说明
 
 - `tag` 是更细粒度的标签体系

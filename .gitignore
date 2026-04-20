@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local caches / resume files
+*.checkpoint.json
+*.log
+
+# Private or login-derived reference material
+validation/
+*_reference.txt
+/主题参考.txt
+/目录说明.txt
+/steam_tags_with_top_games.json
+
+# Local review / temp files that don't need publishing
+results/old/

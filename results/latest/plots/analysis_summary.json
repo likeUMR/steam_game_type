@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-04-20T08:35:04.175715+00:00",
+  "tag_summary": {
+    "tag_count": 446,
+    "top_tag_name": "独立",
+    "top_tag_total_games": 103236,
+    "median_total_games": 2016,
+    "mean_total_games": 5941
+  },
+  "topic_summary": {
+    "topic_count": 48,
+    "top_topic_name": "休闲",
+    "top_topic_match_count": 1437,
+    "median_topic_match_count": 297,
+    "mean_topic_match_count": 404,
+    "median_hot_works_count": 12,
+    "max_recurring_work_name": "Limbus Company",
+    "max_recurring_work_count": 7,
+    "group_counts": {
+      "动作": 7,
+      "冒险与叙事": 7,
+      "模拟": 7,
+      "策略": 7,
+      "体育与竞速": 7,
+      "主题": 7,
+      "角色扮演": 6
+    }
+  }
+}

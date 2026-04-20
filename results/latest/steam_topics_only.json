@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-20T09:59:05.655940+00:00",
+    "language": "schinese",
+    "country_code": "HK",
+    "topic_count": 48,
+    "failed_topic_count": 0,
+    "failed_work_count": 0
+  },
+  "failed_topics": [],
+  "failed_works": [],
+  "topics": [
+    {
+      "name": "第一人称射击",
+      "slug": "action_fps",
+      "group": "动作",
+      "title_en": "第一人称射击",
+      "topic_url": "https://store.steampowered.com/category/action_fps/?cc=HK&l=schinese",
+      "match_count": 231
+    },
+    {
+      "name": "第三人称射击",
+      "slug": "action_tps",
+      "group": "动作",
+      "title_en": "第三人称射击",
+      "topic_url": "https://store.steampowered.com/category/action_tps/?cc=HK&l=schinese",
+      "match_count": 125
+    },
+    {
+      "name": "砍杀",
+      "slug": "hack_and_slash",
+      "group": "动作",
+      "title_en": "砍杀",
+      "topic_url": "https://store.steampowered.com/category/hack_and_slash/?cc=HK&l=schinese",
+      "match_count": 255
+    },
+    {
+      "name": "街机及节奏",
+      "slug": "arcade_rhythm",
+      "group": "动作",
+      "title_en": "街机及节奏",
+      "topic_url": "https://store.steampowered.com/category/arcade_rhythm/?cc=HK&l=schinese",
+      "match_count": 268
+    },
+    {
+      "name": "平台及奔跑",
+      "slug": "action_run_jump",
+      "group": "动作",
+      "title_en": "平台及奔跑",
+      "topic_url": "https://store.steampowered.com/category/action_run_jump/?cc=HK&l=schinese",
+      "match_count": 523
+    },
+    {
+      "name": "清版射击",
+      "slug": "shmup",
+      "group": "动作",
+      "title_en": "清版射击",
+      "topic_url": "https://store.steampowered.com/category/shmup/?cc=HK&l=schinese",
+      "match_count": 150
+    },
+    {
+      "name": "格斗及武术",
+      "slug": "fighting_martial_arts",
+      "group": "动作",
+      "title_en": "格斗及武术",
+      "topic_url": "https://store.steampowered.com/category/fighting_martial_arts/?cc=HK&l=schinese",
+      "match_count": 209
+    },
+    {
+      "name": "隐藏物体",
+      "slug": "hidden_object",
+      "group": "冒险与叙事",
+      "title_en": "隐藏物体",
+      "topic_url": "https://store.steampowered.com/category/hidden_object/?cc=HK&l=schinese",
+      "match_count": 98
+    },
+    {
+      "name": "休闲",
+      "slug": "casual",
+      "group": "冒险与叙事",
+      "title_en": "休闲",
+      "topic_url": "https://store.steampowered.com/category/casual/?cc=HK&l=schinese",
+      "match_count": 1437
+    },
+    {
+      "name": "类银河战士恶魔城",
+      "slug": "metroidvania",
+      "group": "冒险与叙事",
+      "title_en": "类银河战士恶魔城",
+      "topic_url": "https://store.steampowered.com/category/metroidvania/?cc=HK&l=schinese",
+      "match_count": 80
+    },
+    {
+      "name": "解谜",
+      "slug": "puzzle_matching",
+      "group": "冒险与叙事",
+      "title_en": "解谜",
+      "topic_url": "https://store.steampowered.com/category/puzzle_matching/?cc=HK&l=schinese",
+      "match_count": 806
+    },
+    {
+      "name": "冒险角色扮演",
+      "slug": "adventure_rpg",
+      "group": "冒险与叙事",
+      "title_en": "冒险角色扮演",
+      "topic_url": "https://store.steampowered.com/category/adventure_rpg/?cc=HK&l=schinese",
+      "match_count": 989
+    },
+    {
+      "name": "视觉小说",
+      "slug": "visual_novel",
+      "group": "冒险与叙事",
+      "title_en": "视觉小说",
+      "topic_url": "https://store.steampowered.com/category/visual_novel/?cc=HK&l=schinese",
+      "match_count": 862
+    },
+    {
+      "name": "剧情丰富",
+      "slug": "story_rich",
+      "group": "冒险与叙事",
+      "title_en": "剧情丰富",
+      "topic_url": "https://store.steampowered.com/category/story_rich/?cc=HK&l=schinese",
+      "match_count": 1414
+    },
+    {
+      "name": "动作角色扮演",
+      "slug": "rpg_action",
+      "group": "角色扮演",
+      "title_en": "动作角色扮演",
+      "topic_url": "https://store.steampowered.com/category/rpg_action/?cc=HK&l=schinese",
+      "match_count": 325
+    },
+    {
+      "name": "策略及战术角色扮演",
+      "slug": "rpg_strategy_tactics",
+      "group": "角色扮演",
+      "title_en": "策略及战术角色扮演",
+      "topic_url": "https://store.steampowered.com/category/rpg_strategy_tactics/?cc=HK&l=schinese",
+      "match_count": 434
+    },
+    {
+      "name": "日系角色扮演",
+      "slug": "rpg_jrpg",
+      "group": "角色扮演",
+      "title_en": "日系角色扮演",
+      "topic_url": "https://store.steampowered.com/category/rpg_jrpg/?cc=HK&l=schinese",
+      "match_count": 342
+    },
+    {
+      "name": "类 Rogue 及轻度 Rogue",
+      "slug": "rogue_like_rogue_lite",
+      "group": "角色扮演",
+      "title_en": "类 Rogue 及轻度 Rogue",
+      "topic_url": "https://store.steampowered.com/category/rogue_like_rogue_lite/?cc=HK&l=schinese",
+      "match_count": 489
+    },
+    {
+      "name": "回合制角色扮演",
+      "slug": "rpg_turn_based",
+      "group": "角色扮演",
+      "title_en": "回合制角色扮演",
+      "topic_url": "https://store.steampowered.com/category/rpg_turn_based/?cc=HK&l=schinese",
+      "match_count": 305
+    },
+    {
+      "name": "团队制",
+      "slug": "rpg_party_based",
+      "group": "角色扮演",
+      "title_en": "团队制",
+      "topic_url": "https://store.steampowered.com/category/rpg_party_based/?cc=HK&l=schinese",
+      "match_count": 104
+    },
+    {
+      "name": "建造及自动化模拟",
+      "slug": "sim_building_automation",
+      "group": "模拟",
+      "title_en": "建造及自动化模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_building_automation/?cc=HK&l=schinese",
+      "match_count": 664
+    },
+    {
+      "name": "爱好与工作模拟",
+      "slug": "sim_hobby_sim",
+      "group": "模拟",
+      "title_en": "爱好与工作模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_hobby_sim/?cc=HK&l=schinese",
+      "match_count": 328
+    },
+    {
+      "name": "恋爱模拟",
+      "slug": "sim_dating",
+      "group": "模拟",
+      "title_en": "恋爱模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_dating/?cc=HK&l=schinese",
+      "match_count": 637
+    },
+    {
+      "name": "农场及制作模拟",
+      "slug": "sim_farming_crafting",
+      "group": "模拟",
+      "title_en": "农场及制作模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_farming_crafting/?cc=HK&l=schinese",
+      "match_count": 153
+    },
+    {
+      "name": "太空及飞行模拟",
+      "slug": "sim_space_flight",
+      "group": "模拟",
+      "title_en": "太空及飞行模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_space_flight/?cc=HK&l=schinese",
+      "match_count": 79
+    },
+    {
+      "name": "生活及沉浸式模拟",
+      "slug": "sim_life",
+      "group": "模拟",
+      "title_en": "生活及沉浸式模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_life/?cc=HK&l=schinese",
+      "match_count": 574
+    },
+    {
+      "name": "沙盒及物理模拟",
+      "slug": "sim_physics_sandbox",
+      "group": "模拟",
+      "title_en": "沙盒及物理模拟",
+      "topic_url": "https://store.steampowered.com/category/sim_physics_sandbox/?cc=HK&l=schinese",
+      "match_count": 498
+    },
+    {
+      "name": "回合制策略",
+      "slug": "strategy_turn_based",
+      "group": "策略",
+      "title_en": "回合制策略",
+      "topic_url": "https://store.steampowered.com/category/strategy_turn_based/?cc=HK&l=schinese",
+      "match_count": 308
+    },
+    {
+      "name": "即时战略",
+      "slug": "strategy_real_time",
+      "group": "策略",
+      "title_en": "即时战略",
+      "topic_url": "https://store.steampowered.com/category/strategy_real_time/?cc=HK&l=schinese",
+      "match_count": 237
+    },
+    {
+      "name": "塔防",
+      "slug": "tower_defense",
+      "group": "策略",
+      "title_en": "塔防",
+      "topic_url": "https://store.steampowered.com/category/tower_defense/?cc=HK&l=schinese",
+      "match_count": 101
+    },
+    {
+      "name": "卡牌及桌游",
+      "slug": "strategy_card_board",
+      "group": "策略",
+      "title_en": "卡牌及桌游",
+      "topic_url": "https://store.steampowered.com/category/strategy_card_board/?cc=HK&l=schinese",
+      "match_count": 360
+    },
+    {
+      "name": "城市及定居点营造",
+      "slug": "strategy_cities_settlements",
+      "group": "策略",
+      "title_en": "城市及定居点营造",
+      "topic_url": "https://store.steampowered.com/category/strategy_cities_settlements/?cc=HK&l=schinese",
+      "match_count": 269
+    },
+    {
+      "name": "大战略及 4X",
+      "slug": "strategy_grand_4x",
+      "group": "策略",
+      "title_en": "大战略及 4X",
+      "topic_url": "https://store.steampowered.com/category/strategy_grand_4x/?cc=HK&l=schinese",
+      "match_count": 153
+    },
+    {
+      "name": "军事战略",
+      "slug": "strategy_military",
+      "group": "策略",
+      "title_en": "军事战略",
+      "topic_url": "https://store.steampowered.com/category/strategy_military/?cc=HK&l=schinese",
+      "match_count": 290
+    },
+    {
+      "name": "体育模拟及体育管理",
+      "slug": "sports_sim",
+      "group": "体育与竞速",
+      "title_en": "体育模拟及体育管理",
+      "topic_url": "https://store.steampowered.com/category/sports_sim/?cc=HK&l=schinese",
+      "match_count": 110
+    },
+    {
+      "name": "竞速",
+      "slug": "racing",
+      "group": "体育与竞速",
+      "title_en": "竞速",
+      "topic_url": "https://store.steampowered.com/category/racing/?cc=HK&l=schinese",
+      "match_count": 187
+    },
+    {
+      "name": "竞速模拟",
+      "slug": "racing_sim",
+      "group": "体育与竞速",
+      "title_en": "竞速模拟",
+      "topic_url": "https://store.steampowered.com/category/racing_sim/?cc=HK&l=schinese",
+      "match_count": 139
+    },
+    {
+      "name": "钓鱼及狩猎",
+      "slug": "sports_fishing_hunting",
+      "group": "体育与竞速",
+      "title_en": "钓鱼及狩猎",
+      "topic_url": "https://store.steampowered.com/category/sports_fishing_hunting/?cc=HK&l=schinese",
+      "match_count": 13
+    },
+    {
+      "name": "团队体育",
+      "slug": "sports_team",
+      "group": "体育与竞速",
+      "title_en": "团队体育",
+      "topic_url": "https://store.steampowered.com/category/sports_team/?cc=HK&l=schinese",
+      "match_count": 25
+    },
+    {
+      "name": "单人运动",
+      "slug": "sports_individual",
+      "group": "体育与竞速",
+      "title_en": "单人运动",
+      "topic_url": "https://store.steampowered.com/category/sports_individual/?cc=HK&l=schinese",
+      "match_count": 43
+    },
+    {
+      "name": "体育",
+      "slug": "sports",
+      "group": "体育与竞速",
+      "title_en": "体育",
+      "topic_url": "https://store.steampowered.com/category/sports/?cc=HK&l=schinese",
+      "match_count": 55
+    },
+    {
+      "name": "恐怖",
+      "slug": "horror",
+      "group": "主题",
+      "title_en": "恐怖",
+      "topic_url": "https://store.steampowered.com/category/horror/?cc=HK&l=schinese",
+      "match_count": 807
+    },
+    {
+      "name": "科幻及赛博朋克",
+      "slug": "science_fiction",
+      "group": "主题",
+      "title_en": "科幻及赛博朋克",
+      "topic_url": "https://store.steampowered.com/category/science_fiction/?cc=HK&l=schinese",
+      "match_count": 704
+    },
+    {
+      "name": "太空",
+      "slug": "space",
+      "group": "主题",
+      "title_en": "太空",
+      "topic_url": "https://store.steampowered.com/category/space/?cc=HK&l=schinese",
+      "match_count": 139
+    },
+    {
+      "name": "开放世界",
+      "slug": "exploration_open_world",
+      "group": "主题",
+      "title_en": "开放世界",
+      "topic_url": "https://store.steampowered.com/category/exploration_open_world/?cc=HK&l=schinese",
+      "match_count": 1130
+    },
+    {
+      "name": "动漫",
+      "slug": "anime",
+      "group": "主题",
+      "title_en": "动漫",
+      "topic_url": "https://store.steampowered.com/category/anime/?cc=HK&l=schinese",
+      "match_count": 1109
+    },
+    {
+      "name": "生存",
+      "slug": "survival",
+      "group": "主题",
+      "title_en": "生存",
+      "topic_url": "https://store.steampowered.com/category/survival/?cc=HK&l=schinese",
+      "match_count": 544
+    },
+    {
+      "name": "悬疑及推理",
+      "slug": "mystery_detective",
+      "group": "主题",
+      "title_en": "悬疑及推理",
+      "topic_url": "https://store.steampowered.com/category/mystery_detective/?cc=HK&l=schinese",
+      "match_count": 337
+    }
+  ]
+}
